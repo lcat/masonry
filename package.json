@@ -1,0 +1,26 @@
+{
+  "family": "lcat",
+  "name": "masonry",
+  "version": "3.1.4",
+  "description": "Cascading grid layout library",
+  "homepage": "https://github.com/lcat/masonry",
+  "author": "masonry",
+  "maintainers": [
+    "masonry"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lcat/masonry.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["masonry.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
